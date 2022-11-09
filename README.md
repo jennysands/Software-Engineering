@@ -1,2 +1,2 @@
 # Software-Engineering
-Bird Classification Project
+Bird and insect Classification Project
