@@ -457,6 +457,10 @@ def audio_predict(request):
         audio_used = AudioClassifier.preprocess(model_audio, audio_path, 'SE_GUI\\models_ML\\ummy_sound_file.flac')
         result = AudioClassifier.predict(model_audio, audio_used)
         
+        with open('SE_GUI\\data\\Bird_Species_filtered_FOR_AUDIO.csv') as f:
+            df = pd.read_csv(f)
+            bird_sound = df.iloc[result]['species']
+        
         bird_sound = result
         
         print("Bird sound : ", bird_sound)
