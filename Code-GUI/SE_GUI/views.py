@@ -427,7 +427,7 @@ def image_predict(request):
         image_file = BirdImage.objects.create(bird_image_location=image)
         image_path = image_file.bird_image_location.path
         
-        img_used = imgClassifier.preprocess(model_img, image_path, "SE_Project_\\SE_Site\\models_ML\\dummypicture.jpg")
+        img_used = imgClassifier.preprocess(model_img, image_path, "SE_GUI\\models_ML\\dummypicture.jpg")
         
         result = imgClassifier.predict(model_img, img_used)
         
@@ -454,14 +454,12 @@ def audio_predict(request):
         audio_file = BirdAudio.objects.create(bird_audio_location=audio)
         audio_path = audio_file.bird_audio_location.path
         
-        audio_used = AudioClassifier.preprocess(model_audio, audio_path, 'SE_GUI\\models_ML\\ummy_sound_file.flac')
+        audio_used = AudioClassifier.preprocess(model_audio, audio_path, 'SE_GUI\\models_ML\\dummy_sound_file.flac')
         result = AudioClassifier.predict(model_audio, audio_used)
         
         with open('SE_GUI\\data\\Bird_Species_filtered_FOR_AUDIO.csv') as f:
             df = pd.read_csv(f)
             bird_sound = df.iloc[result]['species']
-        
-        bird_sound = result
         
         print("Bird sound : ", bird_sound)
         return render(request, "SE_GUI/audio_predict.html", {'result' : bird_sound})
