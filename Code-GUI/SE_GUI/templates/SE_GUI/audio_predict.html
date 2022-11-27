@@ -1,0 +1,48 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bird predictor</title>
+    <link rel="stylesheet" href="{% static './dist/style.css' %}" />
+  </head>
+
+  <body>
+    <div class="header">
+        <h1 style="text-align: center;">Bird image and audio classifier</h1>
+    </div>
+
+
+    <div class="row">
+
+      <div class="column" style="background-color: #aaa">
+        The result is {{bird_sound}}
+      </div>
+
+      <div class="column" style="background-color: #bbb">
+        <p> This birdsong belongs to the {{result}} </p>
+
+        <audio controls>
+          <source src="{{audio_path}}" type="audio/*">
+          Could not load the audio file.
+          MEDIA URL IS {{Media_URL}}
+        </audio>
+      </div>
+
+      <div class="column" style="background-color: #ccc">
+        NYD
+      </div>
+
+    </div>
+
+
+
+    <div class="footer">
+        <h4 style="text-align: center;"><a class="return_button" href="{% url 'index' %}"> Return to homepage </a></h4>
+    </div>
+
+    <!-- <script src="app/js/script.js"></script> -->
+  </body>
+</html>

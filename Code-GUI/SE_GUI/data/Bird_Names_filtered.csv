@@ -1,0 +1,451 @@
+Animal name,Path,ID
+ABBOTTS BABBLER,/home/u668954/Bird_classifier/train/ABBOTTS BABBLER/001.jpg,0
+ABBOTTS BOOBY,/home/u668954/Bird_classifier/train/ABBOTTS BOOBY/001.jpg,1
+ABYSSINIAN GROUND HORNBILL,/home/u668954/Bird_classifier/train/ABYSSINIAN GROUND HORNBILL/001.jpg,2
+AFRICAN CROWNED CRANE,/home/u668954/Bird_classifier/train/AFRICAN CROWNED CRANE/001.jpg,3
+AFRICAN EMERALD CUCKOO,/home/u668954/Bird_classifier/train/AFRICAN EMERALD CUCKOO/001.jpg,4
+AFRICAN FIREFINCH,/home/u668954/Bird_classifier/train/AFRICAN FIREFINCH/001.jpg,5
+AFRICAN OYSTER CATCHER,/home/u668954/Bird_classifier/train/AFRICAN OYSTER CATCHER/001.jpg,6
+AFRICAN PIED HORNBILL,/home/u668954/Bird_classifier/train/AFRICAN PIED HORNBILL/001.jpg,7
+ALBATROSS,/home/u668954/Bird_classifier/train/ALBATROSS/001.jpg,8
+ALBERTS TOWHEE,/home/u668954/Bird_classifier/train/ALBERTS TOWHEE/001.jpg,9
+ALEXANDRINE PARAKEET,/home/u668954/Bird_classifier/train/ALEXANDRINE PARAKEET/001.jpg,10
+ALPINE CHOUGH,/home/u668954/Bird_classifier/train/ALPINE CHOUGH/001.jpg,11
+ALTAMIRA YELLOWTHROAT,/home/u668954/Bird_classifier/train/ALTAMIRA YELLOWTHROAT/001.jpg,12
+AMERICAN AVOCET,/home/u668954/Bird_classifier/train/AMERICAN AVOCET/001.jpg,13
+AMERICAN BITTERN,/home/u668954/Bird_classifier/train/AMERICAN BITTERN/001.jpg,14
+AMERICAN COOT,/home/u668954/Bird_classifier/train/AMERICAN COOT/001.jpg,15
+AMERICAN FLAMINGO,/home/u668954/Bird_classifier/train/AMERICAN FLAMINGO/001.jpg,16
+AMERICAN GOLDFINCH,/home/u668954/Bird_classifier/train/AMERICAN GOLDFINCH/001.jpg,17
+AMERICAN KESTREL,/home/u668954/Bird_classifier/train/AMERICAN KESTREL/001.jpg,18
+AMERICAN PIPIT,/home/u668954/Bird_classifier/train/AMERICAN PIPIT/001.jpg,19
+AMERICAN REDSTART,/home/u668954/Bird_classifier/train/AMERICAN REDSTART/001.jpg,20
+AMERICAN WIGEON,/home/u668954/Bird_classifier/train/AMERICAN WIGEON/001.jpg,21
+AMETHYST WOODSTAR,/home/u668954/Bird_classifier/train/AMETHYST WOODSTAR/001.jpg,22
+ANDEAN GOOSE,/home/u668954/Bird_classifier/train/ANDEAN GOOSE/001.jpg,23
+ANDEAN LAPWING,/home/u668954/Bird_classifier/train/ANDEAN LAPWING/001.jpg,24
+ANDEAN SISKIN,/home/u668954/Bird_classifier/train/ANDEAN SISKIN/001.jpg,25
+ANHINGA,/home/u668954/Bird_classifier/train/ANHINGA/001.jpg,26
+ANIANIAU,/home/u668954/Bird_classifier/train/ANIANIAU/001.jpg,27
+ANNAS HUMMINGBIRD,/home/u668954/Bird_classifier/train/ANNAS HUMMINGBIRD/001.jpg,28
+ANTBIRD,/home/u668954/Bird_classifier/train/ANTBIRD/001.jpg,29
+ANTILLEAN EUPHONIA,/home/u668954/Bird_classifier/train/ANTILLEAN EUPHONIA/001.jpg,30
+APAPANE,/home/u668954/Bird_classifier/train/APAPANE/001.jpg,31
+APOSTLEBIRD,/home/u668954/Bird_classifier/train/APOSTLEBIRD/001.jpg,32
+ARARIPE MANAKIN,/home/u668954/Bird_classifier/train/ARARIPE MANAKIN/001.jpg,33
+ASHY STORM PETREL,/home/u668954/Bird_classifier/train/ASHY STORM PETREL/001.jpg,34
+ASHY THRUSHBIRD,/home/u668954/Bird_classifier/train/ASHY THRUSHBIRD/001.jpg,35
+ASIAN CRESTED IBIS,/home/u668954/Bird_classifier/train/ASIAN CRESTED IBIS/001.jpg,36
+ASIAN DOLLARD BIRD,/home/u668954/Bird_classifier/train/ASIAN DOLLARD BIRD/001.jpg,37
+AUCKLAND SHAQ,/home/u668954/Bird_classifier/train/AUCKLAND SHAQ/001.jpg,38
+AUSTRAL CANASTERO,/home/u668954/Bird_classifier/train/AUSTRAL CANASTERO/001.jpg,39
+AUSTRALASIAN FIGBIRD,/home/u668954/Bird_classifier/train/AUSTRALASIAN FIGBIRD/001.jpg,40
+AVADAVAT,/home/u668954/Bird_classifier/train/AVADAVAT/001.jpg,41
+AZARAS SPINETAIL,/home/u668954/Bird_classifier/train/AZARAS SPINETAIL/001.jpg,42
+AZURE BREASTED PITTA,/home/u668954/Bird_classifier/train/AZURE BREASTED PITTA/001.jpg,43
+AZURE JAY,/home/u668954/Bird_classifier/train/AZURE JAY/001.jpg,44
+AZURE TANAGER,/home/u668954/Bird_classifier/train/AZURE TANAGER/001.jpg,45
+AZURE TIT,/home/u668954/Bird_classifier/train/AZURE TIT/001.jpg,46
+BAIKAL TEAL,/home/u668954/Bird_classifier/train/BAIKAL TEAL/001.jpg,47
+BALD EAGLE,/home/u668954/Bird_classifier/train/BALD EAGLE/001.jpg,48
+BALD IBIS,/home/u668954/Bird_classifier/train/BALD IBIS/001.jpg,49
+BALI STARLING,/home/u668954/Bird_classifier/train/BALI STARLING/001.jpg,50
+BALTIMORE ORIOLE,/home/u668954/Bird_classifier/train/BALTIMORE ORIOLE/001.jpg,51
+BANANAQUIT,/home/u668954/Bird_classifier/train/BANANAQUIT/001.jpg,52
+BAND TAILED GUAN,/home/u668954/Bird_classifier/train/BAND TAILED GUAN/001.jpg,53
+BANDED BROADBILL,/home/u668954/Bird_classifier/train/BANDED BROADBILL/001.jpg,54
+BANDED PITA,/home/u668954/Bird_classifier/train/BANDED PITA/001.jpg,55
+BANDED STILT,/home/u668954/Bird_classifier/train/BANDED STILT/001.jpg,56
+BAR-TAILED GODWIT,/home/u668954/Bird_classifier/train/BAR-TAILED GODWIT/001.jpg,57
+BARN OWL,/home/u668954/Bird_classifier/train/BARN OWL/001.jpg,58
+BARN SWALLOW,/home/u668954/Bird_classifier/train/BARN SWALLOW/001.jpg,59
+BARRED PUFFBIRD,/home/u668954/Bird_classifier/train/BARRED PUFFBIRD/001.jpg,60
+BARROWS GOLDENEYE,/home/u668954/Bird_classifier/train/BARROWS GOLDENEYE/001.jpg,61
+BAY-BREASTED WARBLER,/home/u668954/Bird_classifier/train/BAY-BREASTED WARBLER/001.jpg,62
+BEARDED BARBET,/home/u668954/Bird_classifier/train/BEARDED BARBET/001.jpg,63
+BEARDED BELLBIRD,/home/u668954/Bird_classifier/train/BEARDED BELLBIRD/001.jpg,64
+BEARDED REEDLING,/home/u668954/Bird_classifier/train/BEARDED REEDLING/001.jpg,65
+BELTED KINGFISHER,/home/u668954/Bird_classifier/train/BELTED KINGFISHER/001.jpg,66
+BIRD OF PARADISE,/home/u668954/Bird_classifier/train/BIRD OF PARADISE/001.jpg,67
+BLACK & YELLOW BROADBILL,/home/u668954/Bird_classifier/train/BLACK & YELLOW BROADBILL/001.jpg,68
+BLACK BAZA,/home/u668954/Bird_classifier/train/BLACK BAZA/001.jpg,69
+BLACK COCKATO,/home/u668954/Bird_classifier/train/BLACK COCKATO/001.jpg,70
+BLACK FRANCOLIN,/home/u668954/Bird_classifier/train/BLACK FRANCOLIN/001.jpg,71
+BLACK SKIMMER,/home/u668954/Bird_classifier/train/BLACK SKIMMER/001.jpg,72
+BLACK SWAN,/home/u668954/Bird_classifier/train/BLACK SWAN/001.jpg,73
+BLACK TAIL CRAKE,/home/u668954/Bird_classifier/train/BLACK TAIL CRAKE/001.jpg,74
+BLACK THROATED BUSHTIT,/home/u668954/Bird_classifier/train/BLACK THROATED BUSHTIT/001.jpg,75
+BLACK THROATED WARBLER,/home/u668954/Bird_classifier/train/BLACK THROATED WARBLER/001.jpg,76
+BLACK VENTED SHEARWATER,/home/u668954/Bird_classifier/train/BLACK VENTED SHEARWATER/001.jpg,77
+BLACK VULTURE,/home/u668954/Bird_classifier/train/BLACK VULTURE/001.jpg,78
+BLACK-CAPPED CHICKADEE,/home/u668954/Bird_classifier/train/BLACK-CAPPED CHICKADEE/001.jpg,79
+BLACK-NECKED GREBE,/home/u668954/Bird_classifier/train/BLACK-NECKED GREBE/001.jpg,80
+BLACK-THROATED SPARROW,/home/u668954/Bird_classifier/train/BLACK-THROATED SPARROW/001.jpg,81
+BLACKBURNIAM WARBLER,/home/u668954/Bird_classifier/train/BLACKBURNIAM WARBLER/001.jpg,82
+BLONDE CRESTED WOODPECKER,/home/u668954/Bird_classifier/train/BLONDE CRESTED WOODPECKER/001.jpg,83
+BLOOD PHEASANT,/home/u668954/Bird_classifier/train/BLOOD PHEASANT/001.jpg,84
+BLUE COAU,/home/u668954/Bird_classifier/train/BLUE COAU/001.jpg,85
+BLUE DACNIS,/home/u668954/Bird_classifier/train/BLUE DACNIS/001.jpg,86
+BLUE GROUSE,/home/u668954/Bird_classifier/train/BLUE GROUSE/001.jpg,87
+BLUE HERON,/home/u668954/Bird_classifier/train/BLUE HERON/001.jpg,88
+BLUE MALKOHA,/home/u668954/Bird_classifier/train/BLUE MALKOHA/001.jpg,89
+BLUE THROATED TOUCANET,/home/u668954/Bird_classifier/train/BLUE THROATED TOUCANET/001.jpg,90
+BOBOLINK,/home/u668954/Bird_classifier/train/BOBOLINK/001.jpg,91
+BORNEAN BRISTLEHEAD,/home/u668954/Bird_classifier/train/BORNEAN BRISTLEHEAD/001.jpg,92
+BORNEAN LEAFBIRD,/home/u668954/Bird_classifier/train/BORNEAN LEAFBIRD/001.jpg,93
+BORNEAN PHEASANT,/home/u668954/Bird_classifier/train/BORNEAN PHEASANT/001.jpg,94
+BRANDT CORMARANT,/home/u668954/Bird_classifier/train/BRANDT CORMARANT/001.jpg,95
+BREWERS BLACKBIRD,/home/u668954/Bird_classifier/train/BREWERS BLACKBIRD/001.jpg,96
+BROWN CREPPER,/home/u668954/Bird_classifier/train/BROWN CREPPER/001.jpg,97
+BROWN NOODY,/home/u668954/Bird_classifier/train/BROWN NOODY/001.jpg,98
+BROWN THRASHER,/home/u668954/Bird_classifier/train/BROWN THRASHER/01.jpg,99
+BUFFLEHEAD,/home/u668954/Bird_classifier/train/BUFFLEHEAD/001.jpg,100
+BULWERS PHEASANT,/home/u668954/Bird_classifier/train/BULWERS PHEASANT/001.jpg,101
+BURCHELLS COURSER,/home/u668954/Bird_classifier/train/BURCHELLS COURSER/001.jpg,102
+BUSH TURKEY,/home/u668954/Bird_classifier/train/BUSH TURKEY/001.jpg,103
+CAATINGA CACHOLOTE,/home/u668954/Bird_classifier/train/CAATINGA CACHOLOTE/001.jpg,104
+CACTUS WREN,/home/u668954/Bird_classifier/train/CACTUS WREN/001.jpg,105
+CALIFORNIA CONDOR,/home/u668954/Bird_classifier/train/CALIFORNIA CONDOR/001.jpg,106
+CALIFORNIA GULL,/home/u668954/Bird_classifier/train/CALIFORNIA GULL/001.jpg,107
+CALIFORNIA QUAIL,/home/u668954/Bird_classifier/train/CALIFORNIA QUAIL/001.jpg,108
+CAMPO FLICKER,/home/u668954/Bird_classifier/train/CAMPO FLICKER/001.jpg,109
+CANARY,/home/u668954/Bird_classifier/train/CANARY/001.jpg,110
+CAPE GLOSSY STARLING,/home/u668954/Bird_classifier/train/CAPE GLOSSY STARLING/001.jpg,111
+CAPE LONGCLAW,/home/u668954/Bird_classifier/train/CAPE LONGCLAW/001.jpg,112
+CAPE MAY WARBLER,/home/u668954/Bird_classifier/train/CAPE MAY WARBLER/001.jpg,113
+CAPE ROCK THRUSH,/home/u668954/Bird_classifier/train/CAPE ROCK THRUSH/001.jpg,114
+CAPPED HERON,/home/u668954/Bird_classifier/train/CAPPED HERON/001.jpg,115
+CAPUCHINBIRD,/home/u668954/Bird_classifier/train/CAPUCHINBIRD/001.jpg,116
+CARMINE BEE-EATER,/home/u668954/Bird_classifier/train/CARMINE BEE-EATER/001.jpg,117
+CASPIAN TERN,/home/u668954/Bird_classifier/train/CASPIAN TERN/001.jpg,118
+CASSOWARY,/home/u668954/Bird_classifier/train/CASSOWARY/001.jpg,119
+CEDAR WAXWING,/home/u668954/Bird_classifier/train/CEDAR WAXWING/001.jpg,120
+CERULEAN WARBLER,/home/u668954/Bird_classifier/train/CERULEAN WARBLER/001.jpg,121
+CHARA DE COLLAR,/home/u668954/Bird_classifier/train/CHARA DE COLLAR/001.jpg,122
+CHATTERING LORY,/home/u668954/Bird_classifier/train/CHATTERING LORY/001.jpg,123
+CHESTNET BELLIED EUPHONIA,/home/u668954/Bird_classifier/train/CHESTNET BELLIED EUPHONIA/001.jpg,124
+CHINESE BAMBOO PARTRIDGE,/home/u668954/Bird_classifier/train/CHINESE BAMBOO PARTRIDGE/001.jpg,125
+CHINESE POND HERON,/home/u668954/Bird_classifier/train/CHINESE POND HERON/001.jpg,126
+CHIPPING SPARROW,/home/u668954/Bird_classifier/train/CHIPPING SPARROW/001.jpg,127
+CHUCAO TAPACULO,/home/u668954/Bird_classifier/train/CHUCAO TAPACULO/001.jpg,128
+CHUKAR PARTRIDGE,/home/u668954/Bird_classifier/train/CHUKAR PARTRIDGE/001.jpg,129
+CINNAMON ATTILA,/home/u668954/Bird_classifier/train/CINNAMON ATTILA/001.jpg,130
+CINNAMON FLYCATCHER,/home/u668954/Bird_classifier/train/CINNAMON FLYCATCHER/001.jpg,131
+CINNAMON TEAL,/home/u668954/Bird_classifier/train/CINNAMON TEAL/001.jpg,132
+CLARKS NUTCRACKER,/home/u668954/Bird_classifier/train/CLARKS NUTCRACKER/001.jpg,133
+COCK OF THE  ROCK,/home/u668954/Bird_classifier/train/COCK OF THE  ROCK/001.jpg,134
+COCKATOO,/home/u668954/Bird_classifier/train/COCKATOO/001.jpg,135
+COLLARED ARACARI,/home/u668954/Bird_classifier/train/COLLARED ARACARI/001.jpg,136
+COMMON FIRECREST,/home/u668954/Bird_classifier/train/COMMON FIRECREST/001.jpg,137
+COMMON GRACKLE,/home/u668954/Bird_classifier/train/COMMON GRACKLE/001.jpg,138
+COMMON HOUSE MARTIN,/home/u668954/Bird_classifier/train/COMMON HOUSE MARTIN/001.jpg,139
+COMMON IORA,/home/u668954/Bird_classifier/train/COMMON IORA/001.jpg,140
+COMMON LOON,/home/u668954/Bird_classifier/train/COMMON LOON/001.jpg,141
+COMMON POORWILL,/home/u668954/Bird_classifier/train/COMMON POORWILL/001.jpg,142
+COMMON STARLING,/home/u668954/Bird_classifier/train/COMMON STARLING/001.jpg,143
+COPPERY TAILED COUCAL,/home/u668954/Bird_classifier/train/COPPERY TAILED COUCAL/001.jpg,144
+CRAB PLOVER,/home/u668954/Bird_classifier/train/CRAB PLOVER/001.jpg,145
+CRANE HAWK,/home/u668954/Bird_classifier/train/CRANE HAWK/001.jpg,146
+CREAM COLORED WOODPECKER,/home/u668954/Bird_classifier/train/CREAM COLORED WOODPECKER/001.jpg,147
+CRESTED AUKLET,/home/u668954/Bird_classifier/train/CRESTED AUKLET/001.jpg,148
+CRESTED CARACARA,/home/u668954/Bird_classifier/train/CRESTED CARACARA/001.jpg,149
+CRESTED COUA,/home/u668954/Bird_classifier/train/CRESTED COUA/001.jpg,150
+CRESTED FIREBACK,/home/u668954/Bird_classifier/train/CRESTED FIREBACK/001.jpg,151
+CRESTED KINGFISHER,/home/u668954/Bird_classifier/train/CRESTED KINGFISHER/001.jpg,152
+CRESTED NUTHATCH,/home/u668954/Bird_classifier/train/CRESTED NUTHATCH/001.jpg,153
+CRESTED OROPENDOLA,/home/u668954/Bird_classifier/train/CRESTED OROPENDOLA/001.jpg,154
+CRESTED SHRIKETIT,/home/u668954/Bird_classifier/train/CRESTED SHRIKETIT/001.jpg,155
+CRIMSON CHAT,/home/u668954/Bird_classifier/train/CRIMSON CHAT/001.jpg,156
+CRIMSON SUNBIRD,/home/u668954/Bird_classifier/train/CRIMSON SUNBIRD/001.jpg,157
+CROW,/home/u668954/Bird_classifier/train/CROW/001.jpg,158
+CROWNED PIGEON,/home/u668954/Bird_classifier/train/CROWNED PIGEON/001.jpg,159
+CUBAN TODY,/home/u668954/Bird_classifier/train/CUBAN TODY/001.jpg,160
+CUBAN TROGON,/home/u668954/Bird_classifier/train/CUBAN TROGON/001.jpg,161
+CURL CRESTED ARACURI,/home/u668954/Bird_classifier/train/CURL CRESTED ARACURI/001.jpg,162
+D-ARNAUDS BARBET,/home/u668954/Bird_classifier/train/D-ARNAUDS BARBET/001.jpg,163
+DALMATIAN PELICAN,/home/u668954/Bird_classifier/train/DALMATIAN PELICAN/001.jpg,164
+DARJEELING WOODPECKER,/home/u668954/Bird_classifier/train/DARJEELING WOODPECKER/001.jpg,165
+DARK EYED JUNCO,/home/u668954/Bird_classifier/train/DARK EYED JUNCO/001.jpg,166
+DARWINS FLYCATCHER,/home/u668954/Bird_classifier/train/DARWINS FLYCATCHER/001.jpg,167
+DAURIAN REDSTART,/home/u668954/Bird_classifier/train/DAURIAN REDSTART/001.jpg,168
+DEMOISELLE CRANE,/home/u668954/Bird_classifier/train/DEMOISELLE CRANE/001.jpg,169
+DOUBLE BARRED FINCH,/home/u668954/Bird_classifier/train/DOUBLE BARRED FINCH/001.jpg,170
+DOUBLE BRESTED CORMARANT,/home/u668954/Bird_classifier/train/DOUBLE BRESTED CORMARANT/001.jpg,171
+DOUBLE EYED FIG PARROT,/home/u668954/Bird_classifier/train/DOUBLE EYED FIG PARROT/001.jpg,172
+DOWNY WOODPECKER,/home/u668954/Bird_classifier/train/DOWNY WOODPECKER/001.jpg,173
+DUSKY LORY,/home/u668954/Bird_classifier/train/DUSKY LORY/001.jpg,174
+DUSKY ROBIN,/home/u668954/Bird_classifier/train/DUSKY ROBIN/001.jpg,175
+EARED PITA,/home/u668954/Bird_classifier/train/EARED PITA/001.jpg,176
+EASTERN BLUEBIRD,/home/u668954/Bird_classifier/train/EASTERN BLUEBIRD/001.jpg,177
+EASTERN BLUEBONNET,/home/u668954/Bird_classifier/train/EASTERN BLUEBONNET/001.jpg,178
+EASTERN GOLDEN WEAVER,/home/u668954/Bird_classifier/train/EASTERN GOLDEN WEAVER/001.jpg,179
+EASTERN MEADOWLARK,/home/u668954/Bird_classifier/train/EASTERN MEADOWLARK/001.jpg,180
+EASTERN ROSELLA,/home/u668954/Bird_classifier/train/EASTERN ROSELLA/001.jpg,181
+EASTERN TOWEE,/home/u668954/Bird_classifier/train/EASTERN TOWEE/001.jpg,182
+EASTERN WIP POOR WILL,/home/u668954/Bird_classifier/train/EASTERN WIP POOR WILL/001.jpg,183
+ECUADORIAN HILLSTAR,/home/u668954/Bird_classifier/train/ECUADORIAN HILLSTAR/001.jpg,184
+EGYPTIAN GOOSE,/home/u668954/Bird_classifier/train/EGYPTIAN GOOSE/001.jpg,185
+ELEGANT TROGON,/home/u668954/Bird_classifier/train/ELEGANT TROGON/001.jpg,186
+ELLIOTS  PHEASANT,/home/u668954/Bird_classifier/train/ELLIOTS  PHEASANT/001.jpg,187
+EMERALD TANAGER,/home/u668954/Bird_classifier/train/EMERALD TANAGER/001.jpg,188
+EMPEROR PENGUIN,/home/u668954/Bird_classifier/train/EMPEROR PENGUIN/001.jpg,189
+EMU,/home/u668954/Bird_classifier/train/EMU/001.jpg,190
+ENGGANO MYNA,/home/u668954/Bird_classifier/train/ENGGANO MYNA/001.jpg,191
+EURASIAN BULLFINCH,/home/u668954/Bird_classifier/train/EURASIAN BULLFINCH/001.jpg,192
+EURASIAN GOLDEN ORIOLE,/home/u668954/Bird_classifier/train/EURASIAN GOLDEN ORIOLE/001.jpg,193
+EURASIAN MAGPIE,/home/u668954/Bird_classifier/train/EURASIAN MAGPIE/001.jpg,194
+EUROPEAN GOLDFINCH,/home/u668954/Bird_classifier/train/EUROPEAN GOLDFINCH/001.jpg,195
+EUROPEAN TURTLE DOVE,/home/u668954/Bird_classifier/train/EUROPEAN TURTLE DOVE/001.jpg,196
+EVENING GROSBEAK,/home/u668954/Bird_classifier/train/EVENING GROSBEAK/001.jpg,197
+FAIRY BLUEBIRD,/home/u668954/Bird_classifier/train/FAIRY BLUEBIRD/001.jpg,198
+FAIRY PENGUIN,/home/u668954/Bird_classifier/train/FAIRY PENGUIN/001.jpg,199
+FAIRY TERN,/home/u668954/Bird_classifier/train/FAIRY TERN/001.jpg,200
+FAN TAILED WIDOW,/home/u668954/Bird_classifier/train/FAN TAILED WIDOW/001.jpg,201
+FASCIATED WREN,/home/u668954/Bird_classifier/train/FASCIATED WREN/001.jpg,202
+FIERY MINIVET,/home/u668954/Bird_classifier/train/FIERY MINIVET/001.jpg,203
+FIORDLAND PENGUIN,/home/u668954/Bird_classifier/train/FIORDLAND PENGUIN/001.jpg,204
+FIRE TAILLED MYZORNIS,/home/u668954/Bird_classifier/train/FIRE TAILLED MYZORNIS/001.jpg,205
+FLAME BOWERBIRD,/home/u668954/Bird_classifier/train/FLAME BOWERBIRD/001.jpg,206
+FLAME TANAGER,/home/u668954/Bird_classifier/train/FLAME TANAGER/001.jpg,207
+FRIGATE,/home/u668954/Bird_classifier/train/FRIGATE/001.jpg,208
+GAMBELS QUAIL,/home/u668954/Bird_classifier/train/GAMBELS QUAIL/001.jpg,209
+GANG GANG COCKATOO,/home/u668954/Bird_classifier/train/GANG GANG COCKATOO/001.jpg,210
+GILA WOODPECKER,/home/u668954/Bird_classifier/train/GILA WOODPECKER/001.jpg,211
+GILDED FLICKER,/home/u668954/Bird_classifier/train/GILDED FLICKER/001.jpg,212
+GLOSSY IBIS,/home/u668954/Bird_classifier/train/GLOSSY IBIS/001.jpg,213
+GO AWAY BIRD,/home/u668954/Bird_classifier/train/GO AWAY BIRD/001.jpg,214
+GOLD WING WARBLER,/home/u668954/Bird_classifier/train/GOLD WING WARBLER/001.jpg,215
+GOLDEN BOWER BIRD,/home/u668954/Bird_classifier/train/GOLDEN BOWER BIRD/001.jpg,216
+GOLDEN CHEEKED WARBLER,/home/u668954/Bird_classifier/train/GOLDEN CHEEKED WARBLER/001.jpg,217
+GOLDEN CHLOROPHONIA,/home/u668954/Bird_classifier/train/GOLDEN CHLOROPHONIA/001.jpg,218
+GOLDEN EAGLE,/home/u668954/Bird_classifier/train/GOLDEN EAGLE/001.jpg,219
+GOLDEN PARAKEET,/home/u668954/Bird_classifier/train/GOLDEN PARAKEET/001.jpg,220
+GOLDEN PHEASANT,/home/u668954/Bird_classifier/train/GOLDEN PHEASANT/001.jpg,221
+GOLDEN PIPIT,/home/u668954/Bird_classifier/train/GOLDEN PIPIT/001.jpg,222
+GOULDIAN FINCH,/home/u668954/Bird_classifier/train/GOULDIAN FINCH/001.jpg,223
+GRANDALA,/home/u668954/Bird_classifier/train/GRANDALA/001.jpg,224
+GRAY CATBIRD,/home/u668954/Bird_classifier/train/GRAY CATBIRD/001.jpg,225
+GRAY KINGBIRD,/home/u668954/Bird_classifier/train/GRAY KINGBIRD/001.jpg,226
+GRAY PARTRIDGE,/home/u668954/Bird_classifier/train/GRAY PARTRIDGE/001.jpg,227
+GREAT GRAY OWL,/home/u668954/Bird_classifier/train/GREAT GRAY OWL/001.jpg,228
+GREAT JACAMAR,/home/u668954/Bird_classifier/train/GREAT JACAMAR/001.jpg,229
+GREAT KISKADEE,/home/u668954/Bird_classifier/train/GREAT KISKADEE/001.jpg,230
+GREAT POTOO,/home/u668954/Bird_classifier/train/GREAT POTOO/001.jpg,231
+GREAT TINAMOU,/home/u668954/Bird_classifier/train/GREAT TINAMOU/001.jpg,232
+GREAT XENOPS,/home/u668954/Bird_classifier/train/GREAT XENOPS/001.jpg,233
+GREATER PEWEE,/home/u668954/Bird_classifier/train/GREATER PEWEE/001.jpg,234
+GREATOR SAGE GROUSE,/home/u668954/Bird_classifier/train/GREATOR SAGE GROUSE/001.jpg,235
+GREEN BROADBILL,/home/u668954/Bird_classifier/train/GREEN BROADBILL/001.jpg,236
+GREEN JAY,/home/u668954/Bird_classifier/train/GREEN JAY/001.jpg,237
+GREEN MAGPIE,/home/u668954/Bird_classifier/train/GREEN MAGPIE/001.jpg,238
+GREY CUCKOOSHRIKE,/home/u668954/Bird_classifier/train/GREY CUCKOOSHRIKE/001.jpg,239
+GREY PLOVER,/home/u668954/Bird_classifier/train/GREY PLOVER/001.jpg,240
+GROVED BILLED ANI,/home/u668954/Bird_classifier/train/GROVED BILLED ANI/001.jpg,241
+GUINEA TURACO,/home/u668954/Bird_classifier/train/GUINEA TURACO/001.jpg,242
+GUINEAFOWL,/home/u668954/Bird_classifier/train/GUINEAFOWL/001.jpg,243
+GURNEYS PITTA,/home/u668954/Bird_classifier/train/GURNEYS PITTA/001.jpg,244
+GYRFALCON,/home/u668954/Bird_classifier/train/GYRFALCON/001.jpg,245
+HAMERKOP,/home/u668954/Bird_classifier/train/HAMERKOP/001.jpg,246
+HARLEQUIN DUCK,/home/u668954/Bird_classifier/train/HARLEQUIN DUCK/001.jpg,247
+HARLEQUIN QUAIL,/home/u668954/Bird_classifier/train/HARLEQUIN QUAIL/001.jpg,248
+HARPY EAGLE,/home/u668954/Bird_classifier/train/HARPY EAGLE/001.jpg,249
+HAWAIIAN GOOSE,/home/u668954/Bird_classifier/train/HAWAIIAN GOOSE/001.jpg,250
+HAWFINCH,/home/u668954/Bird_classifier/train/HAWFINCH/001.jpg,251
+HELMET VANGA,/home/u668954/Bird_classifier/train/HELMET VANGA/001.jpg,252
+HEPATIC TANAGER,/home/u668954/Bird_classifier/train/HEPATIC TANAGER/001.jpg,253
+HIMALAYAN BLUETAIL,/home/u668954/Bird_classifier/train/HIMALAYAN BLUETAIL/001.jpg,254
+HIMALAYAN MONAL,/home/u668954/Bird_classifier/train/HIMALAYAN MONAL/001.jpg,255
+HOATZIN,/home/u668954/Bird_classifier/train/HOATZIN/001.jpg,256
+HOODED MERGANSER,/home/u668954/Bird_classifier/train/HOODED MERGANSER/001.jpg,257
+HOOPOES,/home/u668954/Bird_classifier/train/HOOPOES/001.jpg,258
+HORNED GUAN,/home/u668954/Bird_classifier/train/HORNED GUAN/001.jpg,259
+HORNED LARK,/home/u668954/Bird_classifier/train/HORNED LARK/001.jpg,260
+HORNED SUNGEM,/home/u668954/Bird_classifier/train/HORNED SUNGEM/001.jpg,261
+HOUSE FINCH,/home/u668954/Bird_classifier/train/HOUSE FINCH/001.jpg,262
+HOUSE SPARROW,/home/u668954/Bird_classifier/train/HOUSE SPARROW/001.jpg,263
+HYACINTH MACAW,/home/u668954/Bird_classifier/train/HYACINTH MACAW/001.jpg,264
+IBERIAN MAGPIE,/home/u668954/Bird_classifier/train/IBERIAN MAGPIE/001.jpg,265
+IBISBILL,/home/u668954/Bird_classifier/train/IBISBILL/001.jpg,266
+IMPERIAL SHAQ,/home/u668954/Bird_classifier/train/IMPERIAL SHAQ/001.jpg,267
+INCA TERN,/home/u668954/Bird_classifier/train/INCA TERN/001.jpg,268
+INDIAN BUSTARD,/home/u668954/Bird_classifier/train/INDIAN BUSTARD/001.jpg,269
+INDIAN PITTA,/home/u668954/Bird_classifier/train/INDIAN PITTA/001.jpg,270
+INDIAN ROLLER,/home/u668954/Bird_classifier/train/INDIAN ROLLER/001.jpg,271
+INDIAN VULTURE,/home/u668954/Bird_classifier/train/INDIAN VULTURE/001.jpg,272
+INDIGO BUNTING,/home/u668954/Bird_classifier/train/INDIGO BUNTING/001.jpg,273
+INDIGO FLYCATCHER,/home/u668954/Bird_classifier/train/INDIGO FLYCATCHER/001.jpg,274
+INLAND DOTTEREL,/home/u668954/Bird_classifier/train/INLAND DOTTEREL/001.jpg,275
+IVORY BILLED ARACARI,/home/u668954/Bird_classifier/train/IVORY BILLED ARACARI/001.jpg,276
+IVORY GULL,/home/u668954/Bird_classifier/train/IVORY GULL/001.jpg,277
+IWI,/home/u668954/Bird_classifier/train/IWI/001.jpg,278
+JABIRU,/home/u668954/Bird_classifier/train/JABIRU/001.jpg,279
+JACK SNIPE,/home/u668954/Bird_classifier/train/JACK SNIPE/001.jpg,280
+JANDAYA PARAKEET,/home/u668954/Bird_classifier/train/JANDAYA PARAKEET/001.jpg,281
+JAPANESE ROBIN,/home/u668954/Bird_classifier/train/JAPANESE ROBIN/001.jpg,282
+JAVA SPARROW,/home/u668954/Bird_classifier/train/JAVA SPARROW/001.jpg,283
+JOCOTOCO ANTPITTA,/home/u668954/Bird_classifier/train/JOCOTOCO ANTPITTA/001.jpg,284
+KAGU,/home/u668954/Bird_classifier/train/KAGU/001.jpg,285
+KAKAPO,/home/u668954/Bird_classifier/train/KAKAPO/001.jpg,286
+KILLDEAR,/home/u668954/Bird_classifier/train/KILLDEAR/001.jpg,287
+KING EIDER,/home/u668954/Bird_classifier/train/KING EIDER/001.jpg,288
+KING VULTURE,/home/u668954/Bird_classifier/train/KING VULTURE/001.jpg,289
+KIWI,/home/u668954/Bird_classifier/train/KIWI/001.jpg,290
+KOOKABURRA,/home/u668954/Bird_classifier/train/KOOKABURRA/001.jpg,291
+LARK BUNTING,/home/u668954/Bird_classifier/train/LARK BUNTING/001.jpg,292
+LAZULI BUNTING,/home/u668954/Bird_classifier/train/LAZULI BUNTING/001.jpg,293
+LESSER ADJUTANT,/home/u668954/Bird_classifier/train/LESSER ADJUTANT/001.jpg,294
+LILAC ROLLER,/home/u668954/Bird_classifier/train/LILAC ROLLER/001.jpg,295
+LITTLE AUK,/home/u668954/Bird_classifier/train/LITTLE AUK/001.jpg,296
+LOGGERHEAD SHRIKE,/home/u668954/Bird_classifier/train/LOGGERHEAD SHRIKE/001.jpg,297
+LONG-EARED OWL,/home/u668954/Bird_classifier/train/LONG-EARED OWL/001.jpg,298
+MAGPIE GOOSE,/home/u668954/Bird_classifier/train/MAGPIE GOOSE/001.jpg,299
+MALABAR HORNBILL,/home/u668954/Bird_classifier/train/MALABAR HORNBILL/001.jpg,300
+MALACHITE KINGFISHER,/home/u668954/Bird_classifier/train/MALACHITE KINGFISHER/001.jpg,301
+MALAGASY WHITE EYE,/home/u668954/Bird_classifier/train/MALAGASY WHITE EYE/001.jpg,302
+MALEO,/home/u668954/Bird_classifier/train/MALEO/001.jpg,303
+MALLARD DUCK,/home/u668954/Bird_classifier/train/MALLARD DUCK/001.jpg,304
+MANDRIN DUCK,/home/u668954/Bird_classifier/train/MANDRIN DUCK/001.jpg,305
+MANGROVE CUCKOO,/home/u668954/Bird_classifier/train/MANGROVE CUCKOO/001.jpg,306
+MARABOU STORK,/home/u668954/Bird_classifier/train/MARABOU STORK/001.jpg,307
+MASKED BOOBY,/home/u668954/Bird_classifier/train/MASKED BOOBY/001.jpg,308
+MASKED LAPWING,/home/u668954/Bird_classifier/train/MASKED LAPWING/001.jpg,309
+MCKAYS BUNTING,/home/u668954/Bird_classifier/train/MCKAYS BUNTING/001.jpg,310
+MIKADO  PHEASANT,/home/u668954/Bird_classifier/train/MIKADO  PHEASANT/001.jpg,311
+MOURNING DOVE,/home/u668954/Bird_classifier/train/MOURNING DOVE/001.jpg,312
+MYNA,/home/u668954/Bird_classifier/train/MYNA/001.jpg,313
+NICOBAR PIGEON,/home/u668954/Bird_classifier/train/NICOBAR PIGEON/001.jpg,314
+NOISY FRIARBIRD,/home/u668954/Bird_classifier/train/NOISY FRIARBIRD/001.jpg,315
+NORTHERN BEARDLESS TYRANNULET,/home/u668954/Bird_classifier/train/NORTHERN BEARDLESS TYRANNULET/001.jpg,316
+NORTHERN CARDINAL,/home/u668954/Bird_classifier/train/NORTHERN CARDINAL/001.jpg,317
+NORTHERN FLICKER,/home/u668954/Bird_classifier/train/NORTHERN FLICKER/001.jpg,318
+NORTHERN FULMAR,/home/u668954/Bird_classifier/train/NORTHERN FULMAR/001.jpg,319
+NORTHERN GANNET,/home/u668954/Bird_classifier/train/NORTHERN GANNET/001.jpg,320
+NORTHERN GOSHAWK,/home/u668954/Bird_classifier/train/NORTHERN GOSHAWK/001.jpg,321
+NORTHERN JACANA,/home/u668954/Bird_classifier/train/NORTHERN JACANA/001.jpg,322
+NORTHERN MOCKINGBIRD,/home/u668954/Bird_classifier/train/NORTHERN MOCKINGBIRD/001.jpg,323
+NORTHERN PARULA,/home/u668954/Bird_classifier/train/NORTHERN PARULA/001.jpg,324
+NORTHERN RED BISHOP,/home/u668954/Bird_classifier/train/NORTHERN RED BISHOP/001.jpg,325
+NORTHERN SHOVELER,/home/u668954/Bird_classifier/train/NORTHERN SHOVELER/001.jpg,326
+OCELLATED TURKEY,/home/u668954/Bird_classifier/train/OCELLATED TURKEY/001.jpg,327
+OKINAWA RAIL,/home/u668954/Bird_classifier/train/OKINAWA RAIL/001.jpg,328
+ORANGE BRESTED BUNTING,/home/u668954/Bird_classifier/train/ORANGE BRESTED BUNTING/001.jpg,329
+ORIENTAL BAY OWL,/home/u668954/Bird_classifier/train/ORIENTAL BAY OWL/001.jpg,330
+OSPREY,/home/u668954/Bird_classifier/train/OSPREY/001.jpg,331
+OSTRICH,/home/u668954/Bird_classifier/train/OSTRICH/001.jpg,332
+OVENBIRD,/home/u668954/Bird_classifier/train/OVENBIRD/001.jpg,333
+OYSTER CATCHER,/home/u668954/Bird_classifier/train/OYSTER CATCHER/001.jpg,334
+PAINTED BUNTING,/home/u668954/Bird_classifier/train/PAINTED BUNTING/001.jpg,335
+PALILA,/home/u668954/Bird_classifier/train/PALILA/001.jpg,336
+PARADISE TANAGER,/home/u668954/Bird_classifier/train/PARADISE TANAGER/001.jpg,337
+PARAKETT  AKULET,/home/u668954/Bird_classifier/train/PARAKETT  AKULET/001.jpg,338
+PARUS MAJOR,/home/u668954/Bird_classifier/train/PARUS MAJOR/001.jpg,339
+PATAGONIAN SIERRA FINCH,/home/u668954/Bird_classifier/train/PATAGONIAN SIERRA FINCH/001.jpg,340
+PEACOCK,/home/u668954/Bird_classifier/train/PEACOCK/001.jpg,341
+PEREGRINE FALCON,/home/u668954/Bird_classifier/train/PEREGRINE FALCON/001.jpg,342
+PHILIPPINE EAGLE,/home/u668954/Bird_classifier/train/PHILIPPINE EAGLE/001.jpg,343
+PINK ROBIN,/home/u668954/Bird_classifier/train/PINK ROBIN/001.jpg,344
+POMARINE JAEGER,/home/u668954/Bird_classifier/train/POMARINE JAEGER/001.jpg,345
+PUFFIN,/home/u668954/Bird_classifier/train/PUFFIN/001.jpg,346
+PURPLE FINCH,/home/u668954/Bird_classifier/train/PURPLE FINCH/001.jpg,347
+PURPLE GALLINULE,/home/u668954/Bird_classifier/train/PURPLE GALLINULE/001.jpg,348
+PURPLE MARTIN,/home/u668954/Bird_classifier/train/PURPLE MARTIN/001.jpg,349
+PURPLE SWAMPHEN,/home/u668954/Bird_classifier/train/PURPLE SWAMPHEN/001.jpg,350
+PYGMY KINGFISHER,/home/u668954/Bird_classifier/train/PYGMY KINGFISHER/001.jpg,351
+QUETZAL,/home/u668954/Bird_classifier/train/QUETZAL/001.jpg,352
+RAINBOW LORIKEET,/home/u668954/Bird_classifier/train/RAINBOW LORIKEET/001.jpg,353
+RAZORBILL,/home/u668954/Bird_classifier/train/RAZORBILL/001.jpg,354
+RED BEARDED BEE EATER,/home/u668954/Bird_classifier/train/RED BEARDED BEE EATER/001.jpg,355
+RED BELLIED PITTA,/home/u668954/Bird_classifier/train/RED BELLIED PITTA/001.jpg,356
+RED BROWED FINCH,/home/u668954/Bird_classifier/train/RED BROWED FINCH/001.jpg,357
+RED FACED CORMORANT,/home/u668954/Bird_classifier/train/RED FACED CORMORANT/001.jpg,358
+RED FACED WARBLER,/home/u668954/Bird_classifier/train/RED FACED WARBLER/001.jpg,359
+RED FODY,/home/u668954/Bird_classifier/train/RED FODY/001.jpg,360
+RED HEADED DUCK,/home/u668954/Bird_classifier/train/RED HEADED DUCK/001.jpg,361
+RED HEADED WOODPECKER,/home/u668954/Bird_classifier/train/RED HEADED WOODPECKER/001.jpg,362
+RED HONEY CREEPER,/home/u668954/Bird_classifier/train/RED HONEY CREEPER/001.jpg,363
+RED NAPED TROGON,/home/u668954/Bird_classifier/train/RED NAPED TROGON/001.jpg,364
+RED TAILED HAWK,/home/u668954/Bird_classifier/train/RED TAILED HAWK/001.jpg,365
+RED TAILED THRUSH,/home/u668954/Bird_classifier/train/RED TAILED THRUSH/001.jpg,366
+RED WINGED BLACKBIRD,/home/u668954/Bird_classifier/train/RED WINGED BLACKBIRD/001.jpg,367
+RED WISKERED BULBUL,/home/u668954/Bird_classifier/train/RED WISKERED BULBUL/001.jpg,368
+REGENT BOWERBIRD,/home/u668954/Bird_classifier/train/REGENT BOWERBIRD/001.jpg,369
+RING-NECKED PHEASANT,/home/u668954/Bird_classifier/train/RING-NECKED PHEASANT/01.jpg,370
+ROADRUNNER,/home/u668954/Bird_classifier/train/ROADRUNNER/001.jpg,371
+ROBIN,/home/u668954/Bird_classifier/train/ROBIN/01.jpg,372
+ROCK DOVE,/home/u668954/Bird_classifier/train/ROCK DOVE/001.jpg,373
+ROSY FACED LOVEBIRD,/home/u668954/Bird_classifier/train/ROSY FACED LOVEBIRD/001.jpg,374
+ROUGH LEG BUZZARD,/home/u668954/Bird_classifier/train/ROUGH LEG BUZZARD/001.jpg,375
+ROYAL FLYCATCHER,/home/u668954/Bird_classifier/train/ROYAL FLYCATCHER/001.jpg,376
+RUBY THROATED HUMMINGBIRD,/home/u668954/Bird_classifier/train/RUBY THROATED HUMMINGBIRD/001.jpg,377
+RUDY KINGFISHER,/home/u668954/Bird_classifier/train/RUDY KINGFISHER/001.jpg,378
+RUFOUS KINGFISHER,/home/u668954/Bird_classifier/train/RUFOUS KINGFISHER/001.jpg,379
+RUFUOS MOTMOT,/home/u668954/Bird_classifier/train/RUFUOS MOTMOT/001.jpg,380
+SAMATRAN THRUSH,/home/u668954/Bird_classifier/train/SAMATRAN THRUSH/001.jpg,381
+SAND MARTIN,/home/u668954/Bird_classifier/train/SAND MARTIN/01.jpg,382
+SANDHILL CRANE,/home/u668954/Bird_classifier/train/SANDHILL CRANE/001.jpg,383
+SATYR TRAGOPAN,/home/u668954/Bird_classifier/train/SATYR TRAGOPAN/001.jpg,384
+SCARLET CROWNED FRUIT DOVE,/home/u668954/Bird_classifier/train/SCARLET CROWNED FRUIT DOVE/001.jpg,385
+SCARLET IBIS,/home/u668954/Bird_classifier/train/SCARLET IBIS/01.jpg,386
+SCARLET MACAW,/home/u668954/Bird_classifier/train/SCARLET MACAW/001.jpg,387
+SCARLET TANAGER,/home/u668954/Bird_classifier/train/SCARLET TANAGER/001.jpg,388
+SHOEBILL,/home/u668954/Bird_classifier/train/SHOEBILL/001.jpg,389
+SHORT BILLED DOWITCHER,/home/u668954/Bird_classifier/train/SHORT BILLED DOWITCHER/001.jpg,390
+SKUA,/home/u668954/Bird_classifier/train/SKUA/001.jpg,391
+SMITHS LONGSPUR,/home/u668954/Bird_classifier/train/SMITHS LONGSPUR/001.jpg,392
+SNOWY EGRET,/home/u668954/Bird_classifier/train/SNOWY EGRET/01.jpg,393
+SNOWY OWL,/home/u668954/Bird_classifier/train/SNOWY OWL/001.jpg,394
+SNOWY PLOVER,/home/u668954/Bird_classifier/train/SNOWY PLOVER/001.jpg,395
+SORA,/home/u668954/Bird_classifier/train/SORA/001.jpg,396
+SPANGLED COTINGA,/home/u668954/Bird_classifier/train/SPANGLED COTINGA/001.jpg,397
+SPLENDID WREN,/home/u668954/Bird_classifier/train/SPLENDID WREN/001.jpg,398
+SPOON BILED SANDPIPER,/home/u668954/Bird_classifier/train/SPOON BILED SANDPIPER/001.jpg,399
+SPOONBILL,/home/u668954/Bird_classifier/train/SPOONBILL/001.jpg,400
+SPOTTED CATBIRD,/home/u668954/Bird_classifier/train/SPOTTED CATBIRD/001.jpg,401
+SRI LANKA BLUE MAGPIE,/home/u668954/Bird_classifier/train/SRI LANKA BLUE MAGPIE/001.jpg,402
+STEAMER DUCK,/home/u668954/Bird_classifier/train/STEAMER DUCK/001.jpg,403
+STORK BILLED KINGFISHER,/home/u668954/Bird_classifier/train/STORK BILLED KINGFISHER/001.jpg,404
+STRAWBERRY FINCH,/home/u668954/Bird_classifier/train/STRAWBERRY FINCH/001.jpg,405
+STRIPED OWL,/home/u668954/Bird_classifier/train/STRIPED OWL/001.jpg,406
+STRIPPED MANAKIN,/home/u668954/Bird_classifier/train/STRIPPED MANAKIN/001.jpg,407
+STRIPPED SWALLOW,/home/u668954/Bird_classifier/train/STRIPPED SWALLOW/001.jpg,408
+SUPERB STARLING,/home/u668954/Bird_classifier/train/SUPERB STARLING/001.jpg,409
+SWINHOES PHEASANT,/home/u668954/Bird_classifier/train/SWINHOES PHEASANT/001.jpg,410
+TAILORBIRD,/home/u668954/Bird_classifier/train/TAILORBIRD/001.jpg,411
+TAIWAN MAGPIE,/home/u668954/Bird_classifier/train/TAIWAN MAGPIE/001.jpg,412
+TAKAHE,/home/u668954/Bird_classifier/train/TAKAHE/001.jpg,413
+TASMANIAN HEN,/home/u668954/Bird_classifier/train/TASMANIAN HEN/001.jpg,414
+TEAL DUCK,/home/u668954/Bird_classifier/train/TEAL DUCK/001.jpg,415
+TIT MOUSE,/home/u668954/Bird_classifier/train/TIT MOUSE/001.jpg,416
+TOUCHAN,/home/u668954/Bird_classifier/train/TOUCHAN/001.jpg,417
+TOWNSENDS WARBLER,/home/u668954/Bird_classifier/train/TOWNSENDS WARBLER/001.jpg,418
+TREE SWALLOW,/home/u668954/Bird_classifier/train/TREE SWALLOW/001.jpg,419
+TRICOLORED BLACKBIRD,/home/u668954/Bird_classifier/train/TRICOLORED BLACKBIRD/001.jpg,420
+TROPICAL KINGBIRD,/home/u668954/Bird_classifier/train/TROPICAL KINGBIRD/001.jpg,421
+TRUMPTER SWAN,/home/u668954/Bird_classifier/train/TRUMPTER SWAN/001.jpg,422
+TURKEY VULTURE,/home/u668954/Bird_classifier/train/TURKEY VULTURE/001.jpg,423
+TURQUOISE MOTMOT,/home/u668954/Bird_classifier/train/TURQUOISE MOTMOT/001.jpg,424
+UMBRELLA BIRD,/home/u668954/Bird_classifier/train/UMBRELLA BIRD/001.jpg,425
+VARIED THRUSH,/home/u668954/Bird_classifier/train/VARIED THRUSH/001.jpg,426
+VEERY,/home/u668954/Bird_classifier/train/VEERY/001.jpg,427
+VENEZUELIAN TROUPIAL,/home/u668954/Bird_classifier/train/VENEZUELIAN TROUPIAL/001.jpg,428
+VERMILION FLYCATHER,/home/u668954/Bird_classifier/train/VERMILION FLYCATHER/001.jpg,429
+VICTORIA CROWNED PIGEON,/home/u668954/Bird_classifier/train/VICTORIA CROWNED PIGEON/001.jpg,430
+VIOLET GREEN SWALLOW,/home/u668954/Bird_classifier/train/VIOLET GREEN SWALLOW/001.jpg,431
+VIOLET TURACO,/home/u668954/Bird_classifier/train/VIOLET TURACO/001.jpg,432
+VULTURINE GUINEAFOWL,/home/u668954/Bird_classifier/train/VULTURINE GUINEAFOWL/001.jpg,433
+WALL CREAPER,/home/u668954/Bird_classifier/train/WALL CREAPER/001.jpg,434
+WATTLED CURASSOW,/home/u668954/Bird_classifier/train/WATTLED CURASSOW/001.jpg,435
+WATTLED LAPWING,/home/u668954/Bird_classifier/train/WATTLED LAPWING/001.jpg,436
+WHIMBREL,/home/u668954/Bird_classifier/train/WHIMBREL/001.jpg,437
+WHITE BROWED CRAKE,/home/u668954/Bird_classifier/train/WHITE BROWED CRAKE/001.jpg,438
+WHITE CHEEKED TURACO,/home/u668954/Bird_classifier/train/WHITE CHEEKED TURACO/001.jpg,439
+WHITE CRESTED HORNBILL,/home/u668954/Bird_classifier/train/WHITE CRESTED HORNBILL/001.jpg,440
+WHITE NECKED RAVEN,/home/u668954/Bird_classifier/train/WHITE NECKED RAVEN/001.jpg,441
+WHITE TAILED TROPIC,/home/u668954/Bird_classifier/train/WHITE TAILED TROPIC/001.jpg,442
+WHITE THROATED BEE EATER,/home/u668954/Bird_classifier/train/WHITE THROATED BEE EATER/001.jpg,443
+WILD TURKEY,/home/u668954/Bird_classifier/train/WILD TURKEY/001.jpg,444
+WILSONS BIRD OF PARADISE,/home/u668954/Bird_classifier/train/WILSONS BIRD OF PARADISE/001.jpg,445
+WOOD DUCK,/home/u668954/Bird_classifier/train/WOOD DUCK/001.jpg,446
+YELLOW BELLIED FLOWERPECKER,/home/u668954/Bird_classifier/train/YELLOW BELLIED FLOWERPECKER/001.jpg,447
+YELLOW CACIQUE,/home/u668954/Bird_classifier/train/YELLOW CACIQUE/001.jpg,448
+YELLOW HEADED BLACKBIRD,/home/u668954/Bird_classifier/train/YELLOW HEADED BLACKBIRD/001.jpg,449

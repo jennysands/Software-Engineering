@@ -1,0 +1,48 @@
+{% load static %}
+{% get_media_prefix as MEDIA_URL %}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bird predictor</title>
+    <link rel="stylesheet" href="{% static './dist/style.css' %}" />
+  </head>
+
+  <body>
+    <div class="header">
+      <h1 style="text-align: center;">Bird image and audio classifier</h1>
+    </div>
+
+    <div>
+      <form style="text-align: center; padding: 1rem" action="image_predict/" method="post" enctype="multipart/form-data">
+
+        {% csrf_token %}
+
+        <label for="image"> Upload image: </label>
+        <input type="file" name="imageFile">
+        <input type="submit" name="submit" value="Upload">
+      </form>
+    </div>
+
+    <div>
+      <form style="text-align: center; padding: 1rem"  action="audio_predict/" method="post" enctype="multipart/form-data">
+
+        {% csrf_token %}
+
+        <label for="audio"> Upload audio: </label>
+        <input type="file" name="audioFile">
+        <input type="submit" name="submit" value="Upload">
+      </form>
+    </div>
+
+    <div class="footer" >
+      <h4 style="text-align: center;"><a class="return_button" href="{% url 'index' %}"> Refresh page </a></h4>
+    </div>
+
+    <!-- <script src="app/js/script.js"></script> -->
+  </body>
+</html>
+
