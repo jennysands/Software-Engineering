@@ -16,25 +16,29 @@ body {
     color: #ffffff;
 }
 
-.column {
-    float: left;
-    width: 33.33%;
+.content {
+    background-color: #242424;
     padding: 10px;
-    background-color: #252525;
 }
 
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
+.header {
+    background-color: #222222;
+    padding: 10px;
 }
+
+.footer {
+    background-color: #222222;
+    padding: 10px;
+}
+
+
 
 a.return_button_base {
-
     padding: 14px 25px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    text-align: center;
 }
 
 a.return_button:link {
@@ -54,8 +58,25 @@ a.return_button:hover {
     text-decoration: underline;
 }
 
-@media (max-width: 600px) {
-    .column {
+a.nav_button:link {
+    @extend a, .return_button_base;
+    color: blue;
+}
+
+a.nav_button:visited {
+    @extend a, .return_button_base;
+    color: blue;
+}
+
+a.nav_button:hover {
+    @extend a, .return_button_base;
+    background-color: #ffffff;
+    color:rgb(0, 68, 255);
+    text-decoration: none;
+}
+
+@media screen and (max-width: 600px) {
+    .content .header .footer {
         width: 100%;
     }
 }

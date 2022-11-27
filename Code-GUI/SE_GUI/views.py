@@ -407,7 +407,7 @@ class AudioClassifier (nn.Module):
         
         
             
-print("Audio classifier loaded.")
+print("Audio Classifier loaded.")
 
 
 ### classifier code ### 
@@ -434,14 +434,11 @@ def image_predict(request):
         with open('SE_GUI\\data\\Bird_Names_filtered.csv') as f:
             df = pd.read_csv(f)
             bird_name = df.iloc[result]['Animal name']
-        
-        
-        
-        print("Image : ", image)
-        print("A path : ", 'SE_Project_/media/images/' + str(image))
-        print("Image path: ", image_path)
-        return render(request, "SE_GUI/image_predict.html", {'result' : bird_name})
+      
+        return render(request, "SE_GUI/image_predict.html", {'bird_name': bird_name})
     return render(request, "SE_GUI/index.html")
+
+
 
 def audio_predict(request):
     
@@ -462,5 +459,5 @@ def audio_predict(request):
             bird_sound = df.iloc[result]['species']
         
         print("Bird sound : ", bird_sound)
-        return render(request, "SE_GUI/audio_predict.html", {'result' : bird_sound})
+        return render(request, "SE_GUI/audio_predict.html", {'bird_sound': bird_sound})
     return render(request, "SE_GUI/index.html")

@@ -9,40 +9,21 @@
     <link rel="stylesheet" href="{% static './dist/style.css' %}" />
   </head>
 
+
   <body>
     <div class="header">
         <h1 style="text-align: center;">Bird image and audio classifier</h1>
     </div>
 
-
-    <div class="row">
-
-      <div class="column" style="background-color: #aaa">
-        The result is {{bird_sound}}
-      </div>
-
-      <div class="column" style="background-color: #bbb">
-        <p> This birdsong belongs to the {{result}} </p>
-
-        <audio controls>
-          <source src="{{audio_path}}" type="audio/*">
-          Could not load the audio file.
-          MEDIA URL IS {{Media_URL}}
-        </audio>
-      </div>
-
-      <div class="column" style="background-color: #ccc">
-        NYD
-      </div>
-
+      <div class="content">
+        <p style="text-align: center;">  This birdsong belongs to the <strong> {{bird_sound}} </strong> </p>
+        <p style="text-align: center;" ><a class="nav_button" style="text-align: center;"
+           href="https://www.google.nl/search?q={{ bird_sound }}" target="_blank"> Click on this link for further information about this species </a> </p>
     </div>
-
-
 
     <div class="footer">
         <h4 style="text-align: center;"><a class="return_button" href="{% url 'index' %}"> Return to homepage </a></h4>
     </div>
 
-    <!-- <script src="app/js/script.js"></script> -->
   </body>
 </html>

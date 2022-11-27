@@ -11,34 +11,22 @@
   </head>
 
   <body>
+
     <div class="header">
       <h1 style="text-align: center;">Bird image and audio classifier</h1>
     </div>
 
-    <div class="row">
-
-      <div class="column" style="background-color: #aaa">
-        <a href="https://www.google.nl/search?q={{ result }}"> Click on this link for further information about the bird </a>
+      <div class="content">
+        <p style="text-align: center;"> This bird is the: <strong> {{ bird_name }} </strong> </p>
       </div>
-
-      <div class="column" style="background-color: #bbb">
-        <p> The bird you tried to classify is <strong> {{ result }} </strong> </p>
-
-        <img src="{{ image_path }}" alt="Could not load image"> <br>
+      <div class="content">
+        <p style="text-align: center;"> <a class="nav_button" 
+           href="https://www.google.nl/search?q={{ bird_name }}" target="_blank"> Click on this link for further information about the bird </a> </p>
       </div>
-
-      <div class="column" style="background-color: #ccc">
-        NYD
-      </div>
-
-    </div>
-
-
 
     <div class="footer">
       <h4 style="text-align: center;"><a class="return_button" href="{% url 'index' %}"> Return to homepage </a></h4>
     </div>
 
-    <!-- <script src="app/js/script.js"></script> -->
   </body>
 </html>
